@@ -29,14 +29,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-### 📈 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzkimn&show_icons=true&theme=tokyonight" alt="Dzaki's Stats" width="400" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzkimn&layout=compact&theme=tokyonight" alt="Top Langs" width="300" />
-</p>
 
 ---
 
