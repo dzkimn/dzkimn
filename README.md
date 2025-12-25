@@ -40,6 +40,22 @@
 ---
 
 ### 📬 Contact
+---
+
+### 📬 Contact & Socials
+<p align="left">
+  <a href="https://linkedin.com/in/muhammad-dzaki-md" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/dzkimn" target="blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:muhammaddzaki2245@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
 I am open to collaborations, internships, or project discussions.  
 Reach out via email or LinkedIn linked in my profile.
 
