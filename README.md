@@ -1,28 +1,58 @@
-<h1 align="center">Halo, Saya Dzaki 👋</h1>
-<p align="center">Data Science • Backend • UI/UX • Graphic Design</p>
-<p align="center">Blending data, code, and design into digital products.</p>
+<h1 align="center">Hi, I'm Dzaki 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dzkimn&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+</p>
+
+<p align="center">
+  <strong>Data Science • Backend • UI/UX • Graphic Design</strong>
+</p>
+
+<p align="center">
+  <i>Blending data, code, and design into digital products.</i>
+</p>
 
 ---
 
-### 🚀 Apa yang Saya Kerjakan
-- Analisis Algoritma & Kompleksitas (Python)
-- Data Science, Machine Learning, & Data Analysis
-- UI/UX Design untuk Produk Digital (Figma)
+### 🚀 What I Do
+- 📊 **Data Science & Analytics**: Turning complex data into actionable insights.
+- ⚙️ **Backend Development**: Building scalable APIs and server logic with Python.
+- 🎨 **UI/UX & Visual Identity**: Crafting user-centric designs and brand visuals.
 
 ---
 
 ### ⚙️ Tech & Tools
-**Data & Dev:** Python • Streamlit • Pandas • NumPy • Git • GitHub
-**Design:** Figma • Canva • Illustrator • Prototyping
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-### 📂 Highlight Proyek Terbaru: Tubes AKA
-Saya baru saja menyelesaikan analisis mendalam mengenai **Efisiensi Algoritma Deret Aritmatika**:
-- **Pendekatan Iteratif**: Berhasil membuktikan efisiensi **$O(n)$** dengan waktu eksekusi rata-rata **0.007298 s** pada $n=100.000$.
-- **Pendekatan Rekursif**: Menganalisis model **$O(2^n)$** berdasarkan rumus $T(n) = 2T(n-1) + 2$, yang menunjukkan lonjakan waktu eksponensial ekstrem.
+### 📈 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dzkimn&show_icons=true&theme=tokyonight" alt="Dzaki's Stats" width="400" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzkimn&layout=compact&theme=tokyonight" alt="Top Langs" width="300" />
+</p>
 
 ---
 
-### 📬 Kontak
-Terbuka untuk kolaborasi atau diskusi proyek. Hubungi saya melalui email/LinkedIn di profil saya.
+### 🎯 Current Focus
+- Developing high-impact projects for the **Business Intelligence** career path.
+- Elevating documentation quality and project architecture to industry standards.
+- Bridging the gap between data-driven logic and thoughtful design.
+
+---
+
+### 📬 Contact
+I am open to collaborations, internships, or project discussions.  
+Reach out via email or LinkedIn linked in my profile.
+
+---
+
+<p align="center">
+  <i>"Efficiency is doing things right; effectiveness is doing the right things."</i>
+</p>
