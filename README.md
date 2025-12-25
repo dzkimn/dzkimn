@@ -47,7 +47,7 @@
   <a href="https://linkedin.com/in/muhammad-dzaki-md" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/dzkimn" target="blank">
+  <a href="https://instagram.com/dzkimn_" target="blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:muhammaddzaki2245@gmail.com">
