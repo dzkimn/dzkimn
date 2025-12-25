@@ -1,35 +1,28 @@
-<h1 align="center">Halo, Saya Dzaki👋</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[USERNAME_KAMU]&label=Profil%20Views&color=0e75b6&style=flat" alt="views" />
-</p>
-
-<p align="center">
-  <strong>Mahasiswa Teknik Informatika | Algorithm Enthusiast | Data Analyst</strong>
-</p>
+<h1 align="center">Halo, Saya Dzaki 👋</h1>
+<p align="center">Data Science • Backend • UI/UX • Graphic Design</p>
+<p align="center">Blending data, code, and design into digital products.</p>
 
 ---
 
-### 🚀 Tentang Saya
-- 🎓 Sedang menempuh pendidikan di **Telkom University**.
-- 🔍 Fokus saat ini: Menyelesaikan Tugas Besar **Analisis Kompleksitas Algoritma** (AKA).
-- 💡 Tertarik pada efisiensi kode dan optimasi algoritma.
-
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### 📈 Statistik GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_KAMU]&show_icons=true&theme=tokyonight" alt="Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_KAMU]&layout=compact&theme=tokyonight" alt="Top Langs" width="300" />
-</p>
+### 🚀 Apa yang Saya Kerjakan
+- Analisis Algoritma & Kompleksitas (Python)
+- Data Science, Machine Learning, & Data Analysis
+- UI/UX Design untuk Produk Digital (Figma)
 
 ---
 
-<p align="center">
-  <i>"Efficiency is doing things right; effectiveness is doing the right things."</i>
-</p>
+### ⚙️ Tech & Tools
+**Data & Dev:** Python • Streamlit • Pandas • NumPy • Git • GitHub
+**Design:** Figma • Canva • Illustrator • Prototyping
+
+---
+
+### 📂 Highlight Proyek Terbaru: Tubes AKA
+Saya baru saja menyelesaikan analisis mendalam mengenai **Efisiensi Algoritma Deret Aritmatika**:
+- **Pendekatan Iteratif**: Berhasil membuktikan efisiensi **$O(n)$** dengan waktu eksekusi rata-rata **0.007298 s** pada $n=100.000$.
+- **Pendekatan Rekursif**: Menganalisis model **$O(2^n)$** berdasarkan rumus $T(n) = 2T(n-1) + 2$, yang menunjukkan lonjakan waktu eksponensial ekstrem.
+
+---
+
+### 📬 Kontak
+Terbuka untuk kolaborasi atau diskusi proyek. Hubungi saya melalui email/LinkedIn di profil saya.
